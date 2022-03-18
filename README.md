@@ -1,2 +1,3 @@
 # FAQ-Collapse
  
+![](./FAQ.png)
